@@ -1,0 +1,198 @@
+ history
+    1  git remote -v
+    2  git init
+    3  git remote -v
+    4  git status
+    5  git add .
+    6  git status
+    7  git commit -m "committing ec2 instance creation terraform files to git"
+    8  git status
+    9  git push origin master
+   10  git remote add origin https://github.com/rishireddyg/terraform-files.git
+   11  git remote -v
+   12  git push origin master
+   13  git status
+   14  git pull origin master
+   15  git push origin master
+   16  git status
+   17  git push origin master
+   18  git status
+   19  git is-tree
+   20  git ls-tree
+   21  git stash apply
+   22  git diff -tree -r {hash}
+   23  git commit
+   24  git status
+   25  git log
+   26  git diff -tree -r { 0c5422678}
+   27  git branch --merged
+   28  git branch -no-merged
+   29  git branch --no-merged
+   30  git merge demo
+   31  git branch --no-merged
+   32  git status
+   33  git branch --merged
+   34  git checkout master
+   35  git branch --no-merged
+   36  git merge demo demo-1 owner slave
+   37  git branch --no-merged
+   38  git branch --merged
+   39  git status
+   40  clear
+   41  git status
+   42  fit rebase
+   43  git cherry-pick
+   44  git cherry-pick --cleanup
+   45  git cherry-pick cleanup
+   46  git seperate
+   47  git --help
+   48  git restore
+   49  git branch
+   50  git tag
+   51  git tag ramesh
+   52  git status
+   53  rishi
+   54  git config
+   55
+   56  rishi
+   57  git status
+   58  git commit
+   59  git sttus
+   60  git status
+   61  touch login
+   62  git status
+   63  git add .
+   64  git commit -m "take a tour"
+   65  git branch
+   66  git push owner
+   67  git push origin owner
+   68  git status
+   69  git checkout owner
+   70  ls
+   71  lsls
+   72  git branch
+   73  git log
+   74  touch login.txt
+   75  git add .
+   76  git commit -m "adding login"
+   77  git push origin owner
+   78  git status
+   79  git checkout owner
+   80  ls
+   81  git master
+   82  git checkout master
+   83  touch rm.txt
+   84  git add .
+   85  git commit -a " rebase not equal"
+   86  fgit commit -a
+   87  git commit -a
+   88  git status
+   89  git push origin owner
+   90  git status
+   91  git master
+   92  ls
+   93  git total
+   94  git anootate
+   95  git annotate
+   96  git annotate --incremental
+   97  git annotate --incremental
+   98  git --colour-lines
+   99  git clear
+  100  git clear
+  101  git cls
+  102  git clear
+  103  git clean
+  104  clear
+  105  clean
+  106  git commit
+  107  ls
+  108  terraform init
+  109  terraform plan
+  110  terraform init
+  111  git init
+  112  git remote add user.name rishireddyg
+  113  git remote add user.email rishireddy.12345@gmail.com
+  114  git remote v
+  115  git remote -v
+  116  git status
+  117  git add .
+  118  git commit -m "adding terraform ec2 creatin code"
+  119  git push origin master
+  120  git remote add origin https://github.com/rishireddyg/terraform_code.git
+  121  git remote -v
+  122  git push origin master
+  123  git status
+  124  git --unstage
+  125  ls
+  126  git log
+  127  git push origin master
+  128  git status
+  129  git init
+  130  git remote add origin https://github.com/rishireddyg/my_app.git
+  131  git remote -v
+  132  git status
+  133  git add .
+  134  git commit -m " commiting pom file"
+  135  git push origin master
+  136  git fetech origin master
+  137  git fetch origin master
+  138  fir push origin master
+  139  git push origin master
+  140  git pull origin master
+  141  git push origin master
+  142  git merge
+  143  git remote origin master
+  144  git merge origin master
+  145  git merge master
+  146  git status
+  147  git push origin master
+  148  git pull
+  149  git pull origin master
+  150  git remote -v
+  151  git fetch origin
+  152  git push origin master
+  153  git push
+  154  git push --set-upstream origin master
+  155  git push --help
+  156  git pull
+  157  git pull origin master
+  158  git init
+  159  git status
+  160  git remote add origin https://github.com/rishireddyg/terraform_code.git
+  161  git remote -v
+  162  git status
+  163  git add .
+  164  git commit -m "commiting terraform ec2 creation code"
+  165  git status
+  166  git push origin master
+  167  git status
+  168  git status
+  169  exit
+  170  chmod 400 dotexe.pem
+  171  ls -l
+  172  cls
+  173  clear
+  174  ssh -i "dotexe.pem" ec2-user@ec2-52-66-119-125.ap-south-1.compute.amazonaws.com
+  175  ssh -i "dotexe.pem" ec2-user@3.6.36.105
+  176  ssh -i "dotexe.pem" ec2-user@3.6.36.105
+  177  ssh -i "dotexe.pem" ec2-user@3.6.36.105
+  178  ssh -i "dotexe.pem" ec2-user@3.6.36.105
+  179  cls
+  180  CLEAR
+  181  git status
+  182  git init
+  183  git push origin master
+  184  git init
+  185  git status
+  186  git remote add origin https://github.com/rishireddyg/my_app.git
+  187  git status
+  188  git add .
+  189  git commit -m " commititng files"
+  190  git push origin master
+  191  git pull origin master
+  192  git push origin master
+  193  git pull origin master --allow-unrelated-histories
+  194  git push origin master
+  195  git status
+  196  git history
+  197  history
